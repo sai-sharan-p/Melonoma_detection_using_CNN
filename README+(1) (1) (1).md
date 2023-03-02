@@ -22,6 +22,8 @@
 ## Conclusions
 - Accuracy on training data has been increased after using Augmentor library
 
+- We are getting an accuracy of 90% after rebalancing the data.
+
 - Model is still overfitting to an extent
 
 - The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
