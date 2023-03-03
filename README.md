@@ -13,24 +13,26 @@
 ## General Information
 - Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
-- Background: We are a team who are aspiring to build expertise in deep learning. To help the doctors in making efficient, faster & better decision making to diagnoise the patients. We are aiming to use CNN, classifying the images of the skin anamolies for easy detection of melanoma.
-- We are using deep learning techniques to classify the different skin anamolies(9 classes), to mainly identify melanoma. It will be beneficial for the health care sector. Cut down alot of time in decision making of doctors. Act immidiately on the patient condition and save lives.
+- Background: We are a team who are aspiring to build expertise in deep learning. To help the doctors in making efficient, faster & better decision making to diagnose the patients. We are aiming to use CNN, classifying the images of the skin anamolies for easy detection of melanoma.
+- We are using deep learning techniques to classify the different skin anamolies(9 classes), to mainly identify melanoma. It will be beneficial for the health care sector. Cut down alot of time in decision making of doctors. Act immediately on the patient's condition and save lives.
 - The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Accuracy on training data has been increased after using Augmentor library
+- Initially, we got Accuracy on our training data as around 80% and validation accuracy as 55%, which shows our model is overfitting.
+
+- Accuracy on training data has been increased after using Augmentor library.
 
 - We are getting an accuracy of 90% after rebalancing the data.
 
-- Model is still overfitting to an extent
+- Model is still overfitting to an extent.
 
-- The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+- The problem of overfitting can be solved by adding more layers, neurons or adding dropout layers.
 
-- The Model can be further improved by tuning the hyperparameter
+- The Model can be further improved by tuning the hyperparameters.
 
-- The rebalancing has really helped in improving the performance of the model
+- The rebalancing has really helped in improving the performance of the model.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
