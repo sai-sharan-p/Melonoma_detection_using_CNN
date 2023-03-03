@@ -15,7 +15,7 @@
 
 - Background: We are a team who are aspiring to build expertise in deep learning. To help the doctors in making efficient, faster & better decision making to diagnoise the patients. We are aiming to use CNN, classifying the images of the skin anamolies for easy detection of melanoma.
 - We are using deep learning techniques to classify the different skin anamolies(9 classes), to mainly identify melanoma. It will be beneficial for the health care sector. Cut down alot of time in decision making of doctors. Act immidiately on the patient condition and save lives.
-- The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+- The dataset consists of 2249 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
